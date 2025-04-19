@@ -1,2 +1,1 @@
-# Anarchism-Library-CN
-中文安那其主义图书馆
+# 中文安那其主义图书馆
